@@ -1,0 +1,38 @@
+# Папки, которые Unity создаёт сама
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+/[Mm]emoryCaptures/
+/[Rr]ecordings/
+/.utmp/
+
+# Результаты сборки (APK выкладывается в Releases)
+/[Bb]uild/
+/[Bb]uilds/
+*.apk
+*.aab
+
+# Проверочные картинки сборщика сцены (в README используются копии из docs/screenshots)
+/Previews/
+
+# Логи
+*.log
+
+# Файлы IDE (Visual Studio / Rider генерируют их заново)
+.vs/
+.idea/
+*.csproj
+*.sln
+*.slnx
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.booproj
+.vsconfig
+
+# Системные файлы
+.DS_Store
+Thumbs.db

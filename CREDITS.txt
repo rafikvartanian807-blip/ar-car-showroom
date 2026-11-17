@@ -1,0 +1,2 @@
+3D-модель автомобиля: "Ferrari 458 Italia", автор vicent091036, лицензия CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
+Файл взят из примеров three.js: examples/models/gltf/ferrari.glb
